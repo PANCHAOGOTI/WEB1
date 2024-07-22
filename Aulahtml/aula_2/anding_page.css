@@ -1,0 +1,21 @@
+body{
+    background-image: url(pexels-photo-1933900.webp);
+    font-family: "Open Sans", sans-serif;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+div{
+   text-shadow: 2px 5px 2px #1f1f1f;
+}
+h1{
+    padding-right: 400px;
+    padding-top: 200px;
+    padding-left: 400px;
+    font-size: 75px;
+}
+p{
+    line-height: 35px;
+}

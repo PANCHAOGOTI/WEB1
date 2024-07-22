@@ -1,0 +1,14 @@
+#poggers{
+    display:flex;
+}
+#div1{
+    background-color: red;
+    height: 300px;
+    width: 250px;
+    margin-right: 50px;
+}
+#div2{
+    background-color: blue;
+    height: 300px;
+    width: 700px;
+}

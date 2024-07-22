@@ -1,0 +1,22 @@
+#div1{
+    border:dotted 4px blue;
+    color:white;
+    padding: 20px;
+    background-color: blue;
+    height: 100px;
+    width: 300px;
+}
+#p1{
+    border:dotted 4px red;
+    color:black;
+    background-color: red;
+    padding: 10px;
+    width: 400px;
+    margin-bottom: 50px;
+}
+#p2{
+    border:dotted 4px green;
+    color:black;
+    background-color: green;
+    width: 200px;
+}

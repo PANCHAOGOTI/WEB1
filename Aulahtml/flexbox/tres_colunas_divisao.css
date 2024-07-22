@@ -1,0 +1,37 @@
+#poggers1{
+    display: flex;
+}
+#azul{
+    background-color: blue;
+    width: 275px;
+    height: 100px;
+    margin-right: 30px;
+}
+#vermelho{
+    background-color: red;
+    width: 120px;
+    height: 100px;
+
+}
+#poggers2{
+    display: flex;
+    margin-top: 30px;
+}
+#cinza1{
+    width: 125px;
+    height: 320px;
+    background-color: grey;
+    margin-right: 25px;
+}
+#cinza2{
+    width: 125px;
+    height: 320px;
+    background-color: grey;
+    margin-right: 25px;
+}
+#cinza3{
+    width: 125px;
+    height: 320px;
+    background-color: grey;
+    margin-right: 25px;
+}

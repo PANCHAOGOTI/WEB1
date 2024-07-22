@@ -1,0 +1,27 @@
+#poggers{
+    display: flex;
+    
+}
+#roxo{
+background-color: purple;
+width: 1000px;
+height: 100px;
+margin-bottom: 25px;
+}
+#vermelho{
+    background-color: red;
+    width: 150px;
+    height: 300px;
+    margin-right: 25px;
+}
+#azul{
+    background-color: blue;
+    width: 650px;
+    height: 300px;
+    margin-right: 25px;
+}
+#verde{
+ background-color: green;
+ width: 150px;
+ height: 300px;
+}

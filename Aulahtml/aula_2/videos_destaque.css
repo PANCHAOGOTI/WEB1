@@ -1,0 +1,23 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #3268ba;
+    border-top: solid 4px #3268ba;
+    background-color: #eeeff2;
+}
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p1{
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: solid #3268ba;
+    background-color: #eeeff2;
+    text-align: end;
+    height: 45px;
+}
